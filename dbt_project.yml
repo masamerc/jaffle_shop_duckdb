@@ -8,6 +8,7 @@ profile: 'jaffle_shop'
 model-paths: ["models"]
 seed-paths: ["seeds"]
 test-paths: ["tests"]
+snapshot-paths: ["snapshots"]
 analysis-paths: ["analysis"]
 macro-paths: ["macros"]
 

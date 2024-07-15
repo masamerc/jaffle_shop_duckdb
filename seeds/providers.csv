@@ -1,0 +1,5 @@
+provider_id,provider_name,provider_type,prefecture
+1,Provider A,Type 1,Saitama
+2,Provider B,Type 1,Fukui
+3,Provider C,Type 3,Iwate
+4,Provider D,Type 1,Shimane
