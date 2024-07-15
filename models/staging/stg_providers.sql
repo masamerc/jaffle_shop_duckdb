@@ -9,4 +9,4 @@ select
     provider_type,
     prefecture,
     now() as updated_at
-from {{ ref("providers") }}
+from {{ ref("raw_providers") }}
